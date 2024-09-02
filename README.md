@@ -1,5 +1,5 @@
 
-#Hi! Thanks for checking out this project!
+Hi! Thanks for checking out this project!
  
 # Diploma thesis-research ENG
 #Final BA thesis, 2024, research
