@@ -3,7 +3,7 @@ Hi! Thanks for checking out this project!
  
 # Diploma thesis-research ENG
 #Final BA thesis, 2024, research
-#This is the complete repository of the final paper on the topic: DEVELOPMENT AND ADJUSTMENT OF AI MODELS WITH OPTIMIZATION AND PREDICTIVE METHODS ON THE EXAMPLE OF A DATA BASE USING SUPERVISED MACHINE LEARNING TECHNIQUES
+#This is the complete repository of the final paper on the topic: DEVELOPMENT AND ADJUSTMENT OF AI MODEL WITH OPTIMIZATION AND PREDICTIVE METHODS ON THE EXAMPLE OF A DATASET USING SUPERVISED MACHINE LEARNING TECHNIQUES
 #Excel spreadsheet with data is loaded into Jupter Notebook 
 #Data is real and collected from a platform for sending e-mail newsletter campaigns
 #On the basis of the table, an ML model of linear regression and an ML model from the side of the Pecan AI platform were created 
